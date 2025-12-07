@@ -1,0 +1,6 @@
+# Query: hrts
+
+1 result - 1 file
+
+src\components\Navigation.tsx:
+  46:             <div className="text-2xl font-bold text-gradient">TM-ATS</div>
